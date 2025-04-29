@@ -1,0 +1,56 @@
+NOTE : Jika ireport tidak bisa, ganti jar dengan di library yang saya kirim agar sesuai.
+NOTE : jika harap punya jar jcalendar untuk menjalan program
+Cara menjalankan program :
+1. Pastikan anda sudah mendownload keseluruhan program beserta library dan databasenya.
+
+2. Pastikan xampp sudah dinyalakan dan database sudah di dimport.
+
+3. run program
+
+4. isi form sign up kemudian save dan Kembali ke halaman login.
+
+5. isi username dan password di halaman login kemudian login.
+
+6. anda akan berada di halaman menu dan dapat membuat beberapa pilihan.
+   6.1 jika anda memilih identitas maka akan diarahkan ke halaman identitas.
+   6.2 jika anda memilih kembali maka akan diarahkan ke halaman login.
+   6.3 jika anda memilih kategori maka akan diarahkan ke halaman kategori.
+   6.4 jika anda memilih data pengguna maka akan diarahkan ke halaman pengguna, klik update untuk melihat.
+
+
+7. untuk halaman kategori, terdapat 6 pilihan.
+   7.1 jika anda memilih psikotropika maka akan diarahkan ke halaman psikotropika.
+   7.2 jika anda memilih narkotika maka akan diarahkan ke halaman narkotika.
+   7.3 jika anda memilih bebas maka akan diarahkan ke halaman bebas.
+   7.4 jika anda memilih keras maka akan diarahkan ke halaman keras.
+   7.5 jika anda memilih kembali maka akan diarahkan ke halaman menu .
+   7.6 jika anda memilih input data maka akan diarahkan ke halaman input.
+
+8. untuk halaman input data, disini anda akan melakukan input dengan langkah :
+   8.1 isi nama obat (terserah).
+   8.2 pilih kategori.
+   8.3 isi kode obat (angka,contoh : 1).
+   8.4 pilih tanggal update sekarang.
+   8.5 pilih tanggal kadaluarsa obat.
+   8.6 klik keterangan.
+   8.7 isi harga beli.
+   8.8 klik harga jual.
+   8.9 isi kuantitas.
+   8.10 ada 4 pilihan button :
+   8.11 klik kembali untuk ke halaman kategori.
+   8.12 klik simpan untuk menyimpan data yang sudah diinput.
+   8.13 klik cari untuk ke halaman cari data obat.
+   8.14 klik batal untuk mengembalikan field input ke semula.
+
+9. untuk halaman cari, berikut adalah langkah langkahnya:
+   9.1 isi dari kode (angka, contoh : 3).
+   9.2 isi sampai kode (angka harus lebih besar daripada angka dari kode, contoh : 5).
+   9.3 ada 3 pilihan button :
+   9.4 klik kembali untuk ke halaman input.
+   9.5 klik cari untuk sorting data.
+   9.6 klik cetak untuk mencetak ireport.
+
+10.sudah selesai sampai ireport
+
+
+
